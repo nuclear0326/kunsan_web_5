@@ -1,0 +1,119 @@
+html, body {margin: 0; padding: 0; height: 100%;}
+
+header{ width: 100%; height:10%; background-color: #9FA9D8;}
+
+section { width: 100%; height: 90%; float: left; background: linear-gradient( 45deg, #9FA9D8,#9FA9D8 );}
+
+button.weblogo {
+    background:url(media/Web\ Quiz.png);
+    background-size:cover;
+    border: none;
+    width: 400px;
+    height: 70px;
+}
+
+button.mathlogo {
+    background:url(media/Math\ Quiz.png);
+    background-size:cover;
+    border: none;
+    width: 400px;
+    height: 70px;
+}
+
+button.englogo {
+    background:url(media/eng\ Quiz.png);
+    background-size:cover;
+    border: none;
+    width: 400px;
+    height: 70px;
+}
+
+button.back {
+    background:url(media/Escape.png);
+    background-size:cover;
+    border: none;
+    width: 50px;
+    height: 70px;
+    margin-left:1070px;
+}
+button.result_check {
+    background:url(media/check_button.png);
+    background-size:cover;
+    border: none;
+    padding: 0%;
+    width: 30px;
+    height: 30px;
+    margin-left: 5px;
+    position: fixed;
+}
+
+
+.container {
+    background-color: #ffffff;
+    position: absolute;
+    width: 80%;
+    height: 75%;
+    top: 15%;
+    left: 8%;
+    padding-left: 2%;
+    padding-top: 3px;
+    padding-right: 2%;
+    border-radius: 10px;
+    box-shadow: 0 20px 40px rgba(38, 33, 61, 0.2);
+  }
+h1 {
+    font-size: 250%;
+    margin: 1%;
+    padding-left: 35%;
+}
+p { 
+    font-size: 150%;
+    margin-top: 20px;
+    padding-left: 0%;
+    font-weight: bold;
+}
+
+ul {
+    font-size: 120%;
+    margin-left: 3%;
+    padding-left: 3%;
+    line-height: 240%;
+    margin-top: 3%;
+    font-weight: bold;
+}
+
+input {
+    margin-left: 37%;
+    border: none;
+    border-bottom: solid 2px #9FA9D8;
+    font-size: 16px;
+}
+
+button {
+    margin-left: 0%;
+}
+
+.result { 
+    font-size: 120%;
+    font-weight: bold;
+    display: inline;
+}
+
+.score {
+    display: inline;
+    font-size: 120%;
+    font-weight: bold;
+}
+
+.page {
+    display: inline;
+    font-size: 120%;
+    font-weight: bold;
+    position: absolute;
+    right: 3%;
+}
+
+.div_box{
+    width: 100%;
+    margin-top: 3%;
+}

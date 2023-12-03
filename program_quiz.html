@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>@import url(quiz_style.css);</style>
+        <title>간단한 퀴즈</title>
+    </head>
+    <body>
+        <header>
+            <form>
+                <button type="button" class="weblogo"onclick="location.href='main_page.html'"></button>
+                <button type="button" class="back"onclick="location.href='main_page.html'"></button>
+            </form>
+        </header>
+        <section>
+            <div class="container">
+                <h1>오지선다 퀴즈</h1>
+                <p id="question"></p>
+                <ul id="options"></ul>
+                <input type="text" id="answer" placeholder="정답을 입력하세요" onkeyup="enterkey()">
+                <button type="button" class="result_check" onclick="checkAnswer()"></button>
+                <div class="div_box">
+                    <div id="result" class="result"></div>
+                    <br><br>
+                    <div id="score" class="score"></div>
+                    <div id="page" class="page">0 / 5</div>
+                </div>
+            </div>
+        </section>
+        <script src="program_js.js"></script>
+    </body>
+</html>

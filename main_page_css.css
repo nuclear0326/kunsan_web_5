@@ -1,0 +1,58 @@
+html, body {margin: 0; padding: 0; height: 100%;}
+
+header{ width: 100%; height:10%; background-color: #9FA9D8;}
+
+section { width: 100%; height: 90%; float: left; background: linear-gradient( 45deg, #9FA9D8,#9FA9D8 );}
+
+button.logo {
+    background:url(media/logo.png);
+    background-size:cover;
+    border: none;
+    width: 400px;
+    height: 70px;
+}
+button.back {
+            background:url(media/Escape.png);
+            background-size:cover;
+            border: none;
+            width: 55px;
+            height: 70px;
+            margin-left:1070px;
+}
+button.eng {
+            background:url(media/eng\ logo.png);
+            background-size:cover;
+            border: none;
+            margin-left: 108px;
+            margin-top: 160px;
+            width: 15rem;
+            height: 19.3rem;
+            filter: drop-shadow(5px 5px 5px rgba(38, 33, 61, 0.2));
+        }
+button.math {
+            background:url(media/Math\ Logo.png);
+            background-size:cover;
+            border: none;
+            margin-left: 108px;
+            width: 15rem;
+            height: 19.3rem;
+            filter: drop-shadow(5px 5px 5px rgba(38, 33, 61, 0.2));
+        }
+button.web {
+            background:url(media/web\ logo.png);
+            background-size:cover;
+            border: none;
+            margin-left: 108px;
+            width: 15rem;
+            height: 19.3rem;
+            filter: drop-shadow(5px 5px 5px rgba(38, 33, 61, 0.2));
+        }
+button.dic {
+            background:url(media/dic\ logo.png);
+            background-size:cover;
+            border: none;
+            margin-left: 108px;
+            width: 15rem;
+            height: 19.3rem;
+            filter: drop-shadow(5px 5px 5px rgba(38, 33, 61, 0.2));
+        }
