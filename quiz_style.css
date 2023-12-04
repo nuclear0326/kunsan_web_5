@@ -34,7 +34,7 @@ button.back {
     border: none;
     width: 50px;
     height: 70px;
-    margin-left:1070px;
+    margin-left:80%;
 }
 button.result_check {
     background:url(media/check_button.png);
@@ -67,23 +67,23 @@ h1 {
     padding-left: 35%;
 }
 p { 
-    font-size: 150%;
+    font-size: 200%;
     margin-top: 20px;
     padding-left: 0%;
     font-weight: bold;
 }
 
 ul {
-    font-size: 120%;
+    font-size: 180%;
     margin-left: 3%;
     padding-left: 3%;
-    line-height: 240%;
+    line-height: 280%;
     margin-top: 3%;
     font-weight: bold;
 }
 
 input {
-    margin-left: 37%;
+    margin-left: 40%;
     border: none;
     border-bottom: solid 2px #9FA9D8;
     font-size: 16px;
@@ -94,20 +94,20 @@ button {
 }
 
 .result { 
-    font-size: 120%;
+    font-size: 180%;
     font-weight: bold;
     display: inline;
 }
 
 .score {
     display: inline;
-    font-size: 120%;
+    font-size: 180%;
     font-weight: bold;
 }
 
 .page {
     display: inline;
-    font-size: 120%;
+    font-size: 180%;
     font-weight: bold;
     position: absolute;
     right: 3%;

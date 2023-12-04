@@ -23,8 +23,8 @@ button.eng {
             background:url(media/eng_logo.png);
             background-size:cover;
             border: none;
-            margin-left: 108px;
-            margin-top: 160px;
+            margin-left: 12%;
+            margin-top: 12%;
             width: 15rem;
             height: 19.3rem;
             filter: drop-shadow(5px 5px 5px rgba(38, 33, 61, 0.2));
@@ -33,7 +33,7 @@ button.math {
             background:url(media/Math_logo.png);
             background-size:cover;
             border: none;
-            margin-left: 108px;
+            margin-left: 12%;
             width: 15rem;
             height: 19.3rem;
             filter: drop-shadow(5px 5px 5px rgba(38, 33, 61, 0.2));
@@ -42,7 +42,7 @@ button.web {
             background:url(media/web_logo.png);
             background-size:cover;
             border: none;
-            margin-left: 108px;
+            margin-left: 12%;
             width: 15rem;
             height: 19.3rem;
             filter: drop-shadow(5px 5px 5px rgba(38, 33, 61, 0.2));
@@ -51,7 +51,7 @@ button.dic {
             background:url(media/dic_logo.png);
             background-size:cover;
             border: none;
-            margin-left: 108px;
+            margin-left: 12%;
             width: 15rem;
             height: 19.3rem;
             filter: drop-shadow(5px 5px 5px rgba(38, 33, 61, 0.2));
