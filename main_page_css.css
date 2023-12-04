@@ -23,36 +23,36 @@ button.eng {
             background:url(media/eng_logo.png);
             background-size:cover;
             border: none;
-            margin-left: 12%;
+            margin-left: 7%;
             margin-top: 12%;
-            width: 15rem;
-            height: 19.3rem;
+            width: 25em;
+            height: 32em;
             filter: drop-shadow(5px 5px 5px rgba(38, 33, 61, 0.2));
         }
 button.math {
             background:url(media/Math_logo.png);
             background-size:cover;
             border: none;
-            margin-left: 12%;
-            width: 15rem;
-            height: 19.3rem;
+            margin-left: 11%;
+            width: 25em;
+            height: 32em;
             filter: drop-shadow(5px 5px 5px rgba(38, 33, 61, 0.2));
         }
 button.web {
             background:url(media/web_logo.png);
             background-size:cover;
             border: none;
-            margin-left: 12%;
-            width: 15rem;
-            height: 19.3rem;
+            margin-left: 11%;
+            width: 25em;
+            height: 32em;
             filter: drop-shadow(5px 5px 5px rgba(38, 33, 61, 0.2));
         }
 button.dic {
             background:url(media/dic_logo.png);
             background-size:cover;
             border: none;
-            margin-left: 12%;
-            width: 15rem;
-            height: 19.3rem;
+            margin-left: 11%;
+            width: 25em;
+            height: 32em;
             filter: drop-shadow(5px 5px 5px rgba(38, 33, 61, 0.2));
         }
